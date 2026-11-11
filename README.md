@@ -5,7 +5,7 @@
 
 A lightweight, **zero-dependency** JavaScript Text-to-Speech utility powered natively by your browser and OS. It requires no external libraries, API keys, or usage limits, supporting unlimited speech across **all Arabic dialects** (Egyptian, Saudi, and more) and **English**. You can call it directly **without `async/await`**, and it reliably plays audio or safely returns `null` if unsupported.
 
-#### تحويل النص إلى كلام (TTS) بلغة JavaScript • موثوق • يدعم العربية (المصرية، السعودية والمزيد) والإنجليزية
+#### تحويل النص إلى كلام (TTS) بلغة JavaScript • موثوق • يدعم معظم لغات العالم بالاخص (المصرية، السعودية والمزيد) والإنجليزية
 
 أداة خفيفة الوزن **بدون أي مكتبات خارجية** لتحويل النص إلى كلام، تعمل مباشرة عبر المتصفح ونظام التشغيل دون الحاجة لمفاتيح API أو قيود استخدام. تدعم نطق عدد غير محدود من النصوص بـ **جميع اللهجات العربية** (مثل المصرية والسعودية) بالإضافة إلى **الإنجليزية** ولغات أخرى. تعمل مباشرة **بدون `async/await`**، وتُصدر الصوت بموثوقية أو تُرجع `null` بأمان في حال عدم الدعم.
 
