@@ -60,7 +60,6 @@ TTSManager.speak("مرحباً بك في نظامنا الذكي").then(result =
 // نطق نص إنجليزي
 
 TTSManager.speak("Welcome to our smart system.");
-Use code with caution.
 ```
 
  ## المثال الثاني: التحكم في سرعة الصوت أو اختيار صوت محدد بالاسم
