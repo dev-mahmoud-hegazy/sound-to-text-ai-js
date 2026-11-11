@@ -1,4 +1,4 @@
-# (TTSManager)
+# (TextToSound)
 #### (Arabic - English -  Reliable - Text - To - Speech - JavaScript for web apps and websites)
 
 ## How to Use It and how it built:
