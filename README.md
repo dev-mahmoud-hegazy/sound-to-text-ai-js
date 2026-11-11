@@ -51,8 +51,8 @@ A lightweight, **zero-dependency** JavaScript Text-to-Speech utility powered nat
 #### المثال الأول: النطق التلقائي (عربي أو إنجليزي)
 بمجرد تمرير النص، سيختار الكود اللهجة السعودية (أو المصرية كبديل) تلقائياً:
 
-```javascript
 // نطق نص عربي
+```javascript
 TTSManager.speak("مرحباً بك في نظامنا الذكي").then(result => {
     if (result.success) {
         console.log("تم النطق بنجاح باستخدام:", result.voice);
@@ -61,8 +61,9 @@ TTSManager.speak("مرحباً بك في نظامنا الذكي").then(result =
         // هنا يمكنك إظهار زر للمستخدم يفتح: result.windowsSettingsUri
     }
 });
-
+```
 // نطق نص إنجليزي
+```javascript
 TTSManager.speak("Welcome to our smart system.");
 ```
 
