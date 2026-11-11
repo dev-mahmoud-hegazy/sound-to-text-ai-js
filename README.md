@@ -1,4 +1,7 @@
 # (TTSManager)
+#### (Arabic - English -  Reliable - Text - To - Speech - JavaScript for web apps and websites)
+
+## How to Use It and how it built:
 هو كائن تحكم (Object) في لغة JavaScript، وظيفته الأساسية هي تحويل النصوص العربية والإنجليزية إلى صوت مسموع باستخدام أصوات الويندوز والمتصفح المدمجة، مع اختيار اللهجة الأفضل تلقائياً وإعطائك رابطاً لفتح إعدادات الويندوز إذا كان الصوت غير مثبت.
 
 شرح عمل TTSManager خطوة بخطوة
