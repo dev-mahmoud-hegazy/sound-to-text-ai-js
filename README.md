@@ -1,5 +1,12 @@
 # (Text-To-Sound-AI-JavaScript)
-#### (Arabic - English -  Reliable - Text - To - Speech - JavaScript for web apps and websites)
+
+#### What is this Class Do?
+A lightweight, **zero-dependency** Text-to-Speech utility powered natively by your browser and OS—no external libraries, API keys, or usage limits required. It supports unlimited speech across **all Arabic dialects** (Egyptian, Saudi, etc.), **English**, and more, and works **without `async/await`**. Designed for reliability, it either plays the audio cleanly or safely returns `null` if unsupported.
+
+#### تحويل النص إلى كلام بلغة JavaScript لتطبيقات ومواقع الويب • موثوق • يدعم العربية (المصرية، السعودية والمزيد) والإنجليزية
+
+أداة خفيفة الوزن **بدون أي مكتبات خارجية** لتحويل النص إلى كلام (Text-to-Speech)، تعمل مباشرة عبر المتصفح ونظام التشغيل دون الحاجة لتنزيل حزم إضافية أو قيود على الاستخدام. تدعم نطق عدد غير محدود من النصوص بـ **جميع اللهجات العربية** (مثل المصرية والسعودية وغيرها) إلى جانب **الإنجليزية** ولغات أخرى، وتعمل مباشرة **بدون `async/await`**. صُممت لتكون موثوقة؛ فهي إما أن تُصدر الصوت بنجاح أو تُرجع `null` في حال عدم الدعم.
+
 
 ## How to Use It and how it built:
 هو كائن تحكم (Object) في لغة JavaScript، وظيفته الأساسية هي تحويل النصوص العربية والإنجليزية إلى صوت مسموع باستخدام أصوات الويندوز والمتصفح المدمجة، مع اختيار اللهجة الأفضل تلقائياً وإعطائك رابطاً لفتح إعدادات الويندوز إذا كان الصوت غير مثبت.
